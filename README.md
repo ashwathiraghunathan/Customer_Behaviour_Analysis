@@ -4,6 +4,10 @@ Overview
 
 This project analyzes customer shopping behavior to uncover trends in purchasing patterns, customer segments, and product performance. The goal is to demonstrate an end-to-end data analytics workflow — from raw data processing to business insights and visualization.
 
+<img width="1322" height="723" alt="image" src="https://github.com/user-attachments/assets/924b141b-34ea-40d3-8788-d57dcb1bb51b" />
+
+
+
 The project combines Python, SQL, Power BI, and reporting tools to simulate how a real business would use data to support decision-making.
 
 Dataset
